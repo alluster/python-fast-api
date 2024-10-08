@@ -11,11 +11,11 @@ This is a boilerplate API with FastAPI & Python to create todo items on a list
 First Start a new Python virtual environment on your machine
 
 ```bash
-    $ cd python-fast-api
+	$ cd python-fast-api
 	$ python3 -m venv .venv
 	$ source .venv/bin/activate
-    $ pip install fastapi
-    $ pip install uvicorn
+	$ pip install fastapi
+	$ pip install uvicorn
 ```
 
 ## Running locally
